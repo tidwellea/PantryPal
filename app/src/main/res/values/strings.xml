@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PantryPal</string>
+
+    <string name="remove">Remove</string>
+    <string name="add_food">What food are you adding?</string>
+    <string name="dialog_food_name_hint">Name of food</string>
+    <string name="dialog_food_quantity_hint">How many are you adding?</string>
+    <string name="dialog_food_location_hint">Where are you storing this?</string>
+</resources>
